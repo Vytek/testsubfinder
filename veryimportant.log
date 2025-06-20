@@ -1,0 +1,42 @@
+Found subdomain: %s with sources: %v docs.hackerone.com digitorus
+Found subdomain: %s with sources: %v support.hackerone.com hudsonrock
+Found subdomain: %s with sources: %v mta-sts.hackerone.com crtsh
+Found subdomain: %s with sources: %v mta-sts.managed.hackerone.com crtsh
+Found subdomain: %s with sources: %v mta-sts.forwarding.hackerone.com crtsh
+Found subdomain: %s with sources: %v gslink.hackerone.com crtsh
+Found subdomain: %s with sources: %v resources.hackerone.com alienvault
+Found subdomain: %s with sources: %v api.hackerone.com digitorus
+Found subdomain: %s with sources: %v b.ns.hackerone.com alienvault
+Found subdomain: %s with sources: %v a.ns.hackerone.com alienvault
+Found subdomain: %s with sources: %v www.hackerone.com digitorus
+www.hackerone.com,104.18.36.214,digitorus
+docs.hackerone.com,104.18.36.214,digitorus
+support.hackerone.com,162.159.140.147,hudsonrock
+mta-sts.hackerone.com,185.199.109.153,crtsh
+mta-sts.managed.hackerone.com,185.199.110.153,crtsh
+mta-sts.forwarding.hackerone.com,185.199.110.153,crtsh
+gslink.hackerone.com,18.65.39.9,crtsh
+resources.hackerone.com,52.60.165.183,alienvault
+api.hackerone.com,104.18.36.214,digitorus
+b.ns.hackerone.com,162.159.1.31,alienvault
+a.ns.hackerone.com,162.159.0.31,alienvault
+
+links.hackerone.com [crtsh] (1)
+mta-sts.managed.hackerone.com [crtsh alienvault] (2)
+mta-sts.hackerone.com [crtsh alienvault] (2)
+gslink.hackerone.com [alienvault crtsh] (2)
+3d.hackerone.com [alienvault] (1)
+resources.hackerone.com [alienvault] (1)
+b.ns.hackerone.com [alienvault] (1)
+a.ns.hackerone.com [alienvault rapiddns] (2)
+events.hackerone.com [crtsh alienvault] (2)
+info.hackerone.com [crtsh] (1)
+api.hackerone.com [digitorus crtsh alienvault rapiddns] (4)
+docs.hackerone.com [alienvault rapiddns digitorus crtsh] (4)
+support.hackerone.com [hudsonrock crtsh alienvault] (3)
+websockets.hackerone.com [crtsh] (1)
+mta-sts.forwarding.hackerone.com [crtsh alienvault] (2)
+www.hackerone.com [rapiddns waybackarchive digitorus crtsh alienvault] (5)
+design.hackerone.com [crtsh alienvault] (2)
+go.hackerone.com [crtsh] (1)
+forwarding.hackerone.com [rapiddns] (1)
